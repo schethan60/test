@@ -4,3 +4,4 @@ i for insert
 esc to exit insert
 :w to save 
 :q to quit vim
+:q! - to save and quit vim	
